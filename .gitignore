@@ -1,0 +1,7 @@
+# Research paper pdfs
+Research Paper/
+
+# Dataset from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+dataset/
+
+.DS_Store
