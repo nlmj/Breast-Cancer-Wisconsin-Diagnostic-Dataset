@@ -5,3 +5,7 @@ Research Paper/
 dataset/
 
 .DS_Store
+
+__pycache__/
+
+others/
